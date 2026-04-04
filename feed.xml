@@ -6,11 +6,12 @@
     <link>https://maalik1005-cmyk.github.io/psychology-files-podcast</link>
     <language>en-us</language>
     <itunes:author>The Psychology Files</itunes:author>
+    <itunes:image href="https://maalik1005-cmyk.github.io/psychology-files-podcast/mind_files_logo.png"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Can Trauma Actually Make You Stronger? The Science Says...</title>
-      <description>70% of trauma survivors report positive life changes from their suffering.</description>
+      <description>70% of trauma survivors report positive life changes from their suffering. We explore the neuroscience of post-traumatic growth and why some people emerge stronger from adversity while others don't.</description>
       <enclosure url="https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775336545.mp3" length="8531805" type="audio/mpeg"/>
       <guid>https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775336545.mp3</guid>
       <pubDate>Sat, 04 Apr 2026 21:02:25 +0000</pubDate>
@@ -18,7 +19,7 @@
     </item>
     <item>
       <title>Your Sadness Isn't Depression (But How Do You Know?)</title>
-      <description>Robin Williams was cracking jokes weeks before his suicide.</description>
+      <description>Robin Williams was cracking jokes weeks before his suicide - revealing the dangerous gap between how we think depression looks and its brutal reality.</description>
       <enclosure url="https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775336323.mp3" length="8930996" type="audio/mpeg"/>
       <guid>https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775336323.mp3</guid>
       <pubDate>Sat, 04 Apr 2026 20:58:43 +0000</pubDate>
@@ -26,7 +27,7 @@
     </item>
     <item>
       <title>Your Brain on Junk Food: How Big Food Hijacks Your Mind</title>
-      <description>Ultra-processed foods trigger the same addiction pathways as cocaine.</description>
+      <description>Ultra-processed foods trigger the same addiction pathways as cocaine, and food companies know it. Discover the dark psychology tactics used to hijack your brain's reward system.</description>
       <enclosure url="https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775334975.mp3" length="6578277" type="audio/mpeg"/>
       <guid>https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775334975.mp3</guid>
       <pubDate>Sat, 04 Apr 2026 20:36:15 +0000</pubDate>
