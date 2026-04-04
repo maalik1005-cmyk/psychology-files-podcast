@@ -5,9 +5,18 @@
     <description>Exploring the hidden mechanics of the human mind. Every episode we dive deep into psychology, behaviour, and the mental patterns that shape who we are.</description>
     <link>https://maalik1005-cmyk.github.io/psychology-files-podcast</link>
     <language>en-us</language>
+    <itunes:author>The Psychology Files</itunes:author>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
     
+    <item>
+      <title>Can Trauma Actually Make You Stronger? The Science Says...</title>
+      <description>70% of trauma survivors report positive life changes from their suffering. We explore the neuroscience of post-traumatic growth and why some people emerge stronger from adversity while others don't.</description>
+      <enclosure url="https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775336545.mp3" length="8531805" type="audio/mpeg"/>
+      <guid>https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775336545.mp3</guid>
+      <pubDate>Sat, 04 Apr 2026 21:02:25 +0000</pubDate>
+      <itunes:duration>15:00</itunes:duration>
+    </item>
     <item>
       <title>Your Sadness Isn't Depression (But How Do You Know?)</title>
       <description>Robin Williams was cracking jokes weeks before his suicide - revealing the dangerous gap between how we think depression looks and its brutal reality. Explore why everyone misunderstands depression until they face it themselves.</description>
