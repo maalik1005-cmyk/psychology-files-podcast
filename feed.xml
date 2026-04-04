@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Psychology Files</title>
+    <description>Exploring the hidden mechanics of the human mind. Every episode we dive deep into psychology, behaviour, and the mental patterns that shape who we are.</description>
+    <link>https://maalik1005-cmyk.github.io/psychology-files-podcast</link>
+    <language>en-us</language>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>Your Brain on Junk Food: How Big Food Hijacks Your Mind</title>
+      <description>Ultra-processed foods trigger the same addiction pathways as cocaine, and food companies know it. Discover the dark psychology tactics used to hijack your brain's reward system and learn how to break free from engineered food addiction.</description>
+      <enclosure url="https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775334975.mp3" length="6578277" type="audio/mpeg"/>
+      <guid>https://maalik1005-cmyk.github.io/psychology-files-podcast/audio/episode_1775334975.mp3</guid>
+      <pubDate>Sat, 04 Apr 2026 20:36:15 +0000</pubDate>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
